@@ -1,0 +1,7 @@
+3:I[5613,[],""]
+4:I[1778,[],""]
+5:I[8667,["160","static/chunks/app/not-found-74d41d1e5e9fc13d.js"],""]
+0:["DxvgEJNhBzOx1OJSq8WcR",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"antialiased","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L5",null,{}],"notFoundStyles":[],"styles":null}]}]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7eadc709440f1f7e.css","precedence":"next","crossOrigin":""}]],"$L6"]]]]
+2:E{"digest":"NEXT_REDIRECT;replace;/dashboard;307;"}
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"PitchAI"}],["$","meta","3",{"name":"description","content":"您的智能审核助手"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null
